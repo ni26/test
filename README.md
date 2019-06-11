@@ -8,4 +8,4 @@ This is our first test project.
 *This is italic emphasis*  
 **This is boldface**  
 
-![This is a cool photo](https://apod.nasa.gov/apod/image/1906/CepheusB_Spitzer_14391.jpg)
+![This is a fish](http://1.bp.blogspot.com/-Gv648iUY5p0/UD8rqW3deSI/AAAAAAAAACA/MrG4KxFyM5A/s1600/Fish.jpeg)
